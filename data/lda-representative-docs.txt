@@ -1,0 +1,104 @@
+Topic 0:
+  - Using Lutjanus campechanus Scales as a Biosorbent to Filter Cu2+, Pb2+, and Cd2+ From Water
+  - Algaenius
+  - The Effect of Margaritifera margaritifera on Nitrates in Hastings NE
+  - The Effect of Lemnaceae on Overall Water Quality Part ll: The Loss of Nitrate Nitrogen through Decomposition
+  - Water Quality Analysis of the Gulpha Creek Watershed
+
+Topic 1:
+  - Blown Away: How Motor Speed Relates to Optimum Propeller Pitch
+  - Aircraft Propeller Noise Reduction Using Owl Feather Inspired Notching
+  - Foiled: Testing Lift and Drag on Airfoils in a Wind Tunnel
+  - A Study of the Effects of Incomplete Spiroids on the Drag Coefficient of an Airfoil
+  - Atomistic Simulation of Pathways for Mg2+-Water Dissociation with Rigorous Kinetics
+
+Topic 2:
+  - Compressed Air Energy Storage
+  - Electromagnetic Energy Harvester to Power LEDs Illumination
+  - Thermoelectric Generator
+  - Improving the Harnessing of Solar Energy Using a Hybrid Photovoltaic Thermal System
+  - Solar Powering Day and Night with Boxed Micro-Biosphere
+
+Topic 3:
+  - Luminescent Quenching by Transition Metal Ions on a Luminescent Surface
+  - Synthesis of Iron Oxide Nanorods
+  - Trapped Field Superconducting Magnets
+  - A Novel Mathematical Simulation to Study the Dynamics of CD4 Cells, CD8 Cells, and HIV Viral Load
+  - Synthesis of a Novel Metal Organic Framework with a PCU Topology for CO2 Separation in CCS
+
+Topic 4:
+  - Biofuel Enzymes
+  - The Effect of Sodium Chloride on Catalase's Breakdown of Hydrogen Peroxide
+  - What's in Your Smoothie?
+  - Sucrose Goes Glucose
+  - Increasing Efficiency of Electrolysis
+
+Topic 5:
+  - Combinations of Immune Checkpoint Blockade Inhibitors and Lymphodepletion as Immunotherapy for Myeloma
+  - Platinum Induced Gene Expression Yields Insights to Chemotherapy Resistance
+  - ERVK3-1 as a Prognostic Marker for Invasive Ductal Carcinoma
+  - Seeking a Cure II: Targeting ERβ in a Novel Cost-Effective Treatment for Ovarian Epithelial Cancer
+  - An Investigation of the Combination of Y15 and Metformin for the Treatment of Platinum-Resistant Ovarian Cancer
+
+Topic 6:
+  - The Effect of Sleeve Gastrectomy on Progression of Alzheimer's Disease
+  - A Novel Hybrid Non-invasive Clinical-Signal Processing Technique as Biomarker of Atrial Fibrillation
+  - Biological Mechanisms of Stress Response and the Risk of Alzheimer's Disease
+  - Increasing Metabolic Substrates Improves Spreading Depolarization Recovery in a Brain Slice Model of Stroke: An Innovative Therapy for Reducing Brain Injury after Stroke
+  - An Investigation into the Current Use of Caffeine as a Migraine Treatment and Its Effects on Spreading Depolarizations: A Second Year Study and the Introduction of a Novel Therapy
+
+Topic 7:
+  - The Inception of Infection II: The Antimicrobial and Synergistic Efficiency of Antibiotic Ethambutol and Isoniazid and Bacteriophage D29 in Treating a Model Organism for Tuberculosis
+  - Kimchi Bacterial Affects against Common Sinusitis Bacteria
+  - Determination of Antimicrobial Activity of Nigella sativa Against Bacterial Isolates
+  - Medicinal Properties of Ocimum basilicum and Azadirachta indica
+  - Synergistic Effects of Elderberry Extract in Conjunction with Antibiotics
+
+Topic 8:
+  - Hot Biology: Use of Thermal Imaging to Detect Nesting Behaviors of the Endangered Hawaiian Coot
+  - Deer’s Preference: Trophy Rock or Bio Rock
+  - Healthy Youth: Effect of Physical Activity and Sleep Patterns on Physical and Mental Well-Being in Adolescents
+  - A Potential Management Strategy for the Endangered Southwestern Willow Flycatcher: Effects of Early Season Wildfire on Foraging and Nesting Habitat
+  - The Secret Formula
+
+Topic 9:
+  - Hybridized Characteristic 3 Galois Field Arithmetic for Elliptic Curve Cryptography, Phase III
+  - Mycoplasma bovis in Dairy Cattle: Can It Be Isolated from More than One Site?
+  - The Effect of D. reticulatum Mucus as a Deterrent to Other Slugs
+  - Breaking Point
+  - The Correlation between Oleoresin Production in Pine Species with the Number of Resin Canals They Produce, Year Five
+
+Topic 10:
+  - A Greener Shade of Grey: The Effects of Fly Ash in Concrete, a Second Year Study
+  - Zero-Waste Management for Spent Bleaching Earth: A Study of Its Reuse and Regeneration
+  - Alternative Construction 3D Printing Materials
+  - Production and Comparison of Re-Extruded Filament From Recycled PET Plastic Bottles for Use in 3D Printing
+  - Biodegradable Breathable Band-Aids
+
+Topic 11:
+  - Cost-Effective Interactive Augmented Reality Table
+  - Android2Mouse
+  - Laser 3D Scanner
+  - Using Electronic Devices to Help Visually Impaired Peoples to Detect Obstacles: Carmen Sylva Your Eyes (CSYE)
+  - Smart Heights
+
+Topic 12:
+  - The Effect of Color Preference on Quick Problem-Solving in Young Students
+  - Group Phylos: Student Choir as an Instrument of Cultural Inclusion
+  - Conformity Among Ages
+  - Test Tunes
+  - The Correlation Between Physical Activity and Balance in the Elderly
+
+Topic 13:
+  - A New Method to Determine the Properties of Solutions to One-Variable Cubic Equations with Integral Coefficients
+  - Characterizing the n-Division Points of Genus-0 Curves through Straightedge and Compass Constructions
+  - Arithmetic and Algebraic Methods for Solving Multiplicative Quadratic Congruences
+  - An Application of Polynomials to Generate Pythagorean Triples
+  - Conservation in Dynamic Labeling of Polygons
+
+Topic 14:
+  - Marine Algae as Fertilizers in the Bio-Orchard
+  - Are Plant Growth Regulators Always Effective When Treating Wheat?
+  - Plastic Mulch and Organic Amendments: Can They Help Us Control Nutsedge?
+  - The Effect of Fertilizers on the Germination of Vigna radiata Seeds
+  - Brassica juncea (Mustard) Flowers to Attract Pollinators for Better Malus domestica (Apple) Yield
