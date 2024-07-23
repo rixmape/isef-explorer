@@ -1,6 +1,6 @@
 # Dataset creation settings
-input_html_file: "isef_list_page.html"
-output_csv_file: "isef_projects.csv"
+input_html_file: "data/isef_list_page.html"
+output_csv_file: "data/isef_projects_without_abstracts.csv"
 base_url: "https://abstracts.societyforscience.org"
 table_id: "tblAbstractSearchResults"
 
